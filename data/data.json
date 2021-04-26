@@ -1,0 +1,24 @@
+{
+    "newsItems": [
+
+      {
+        "id": 1,
+        "type": "Buyer",
+        "name_text": "Denise Ann",
+        "views": "153",
+        "favorites": "0",
+        "visit": "9:23 AM",
+        "action": "img/2016.png"
+      },
+      {
+        "id": 2,
+        "type": "Buyer",
+        "name_text": "Denise Ann",
+        "views": "153",
+        "favorites": "0",
+        "visit": "9:23 AM",
+        "action": "img/2015.png"
+      }
+      
+    ]
+}
