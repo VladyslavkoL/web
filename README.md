@@ -1,7 +1,7 @@
 # web
  
 ``FOR PACKAGES``
-**npm install**
+**$  npm install**
 
 
 ``STARTINTG``
