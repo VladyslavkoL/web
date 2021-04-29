@@ -1,7 +1,12 @@
 # web
  
-`` npm install  ``
+`` FOR PACKAGES  ``
+**npm install**
 
-`` Leskiv Vladyslav ``
+
+`` STARTINTG``
+**$  gulp watch**
 
 `` LAB 2 - 6 (BOOTSTRAP) ``
+
+`` Author ``: **Leskiv Vladyslav**
