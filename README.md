@@ -1,12 +1,12 @@
 # web
  
-`` FOR PACKAGES  ``
+``FOR PACKAGES``
 **npm install**
 
 
-`` STARTINTG``
+``STARTINTG``
 **$  gulp watch**
 
-`` LAB 2 - 6 (BOOTSTRAP) ``
+``LAB 2 - 6 (BOOTSTRAP)``
 
-`` Author ``: **Leskiv Vladyslav**
+``Author``: **Leskiv Vladyslav**
