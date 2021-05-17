@@ -7,6 +7,6 @@
 ``STARTINTG``
 **$  gulp watch**
 
-``LAB 2 - 6 (BOOTSTRAP)``
+``LAB 1 - 6 (BOOTSTRAP)``
 
 ``Author``: **Leskiv Vladyslav**
